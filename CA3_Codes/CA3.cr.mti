@@ -1,0 +1,160 @@
+C:/Users/user/Desktop/Code/CA3/Codes/RF.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/RF.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/EMreg.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/EMreg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EMreg
+
+Top level modules:
+	EMreg
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv {2 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv(11): (vlog-2284) Empty $unit scope found.
+-- Compiling package FDreg_sv_unit
+-- Compiling module FDreg
+
+Top level modules:
+	FDreg
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/WB.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/WB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module WB
+
+Top level modules:
+	WB
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/MWreg.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/MWreg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MWreg
+
+Top level modules:
+	MWreg
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/ALU.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/ALU.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/PC.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/PC.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/IMM.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/IMM.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IMM
+
+Top level modules:
+	IMM
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/MUX3.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/MUX3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX3
+
+Top level modules:
+	MUX3
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/M.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/M.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module M
+
+Top level modules:
+	M
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/EX.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/EX.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/ID.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/ID.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/IF.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/IF.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/TestBench.sv {1 {vlog -work work -sv -stats=none {C:\Users\user\Desktop\Code\CA3\Codes\TestBench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/Adder.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/Adder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/HazardDetector.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/HazardDetector.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazardDet
+
+Top level modules:
+	hazardDet
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv {2 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+** Warning: C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv(18): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/MUX2.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/MUX2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX2
+
+Top level modules:
+	MUX2
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/InstMem.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/InstMem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstMem
+
+Top level modules:
+	InstMem
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/DEreg.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/DEreg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DEreg
+
+Top level modules:
+	DEreg
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/Mem.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/Mem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mem
+
+Top level modules:
+	Mem
+
+} {} {}} C:/Users/user/Desktop/Code/CA3/Codes/RISCV.sv {1 {vlog -work work -sv -stats=none C:/Users/user/Desktop/Code/CA3/Codes/RISCV.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISCV
+
+Top level modules:
+	RISCV
+
+} {} {}}

@@ -1,0 +1,48 @@
+# Compile of TestBench.sv was successful.
+vsim -gui work.TestBench
+# vsim -gui work.TestBench 
+# Start time: 18:32:11 on Jun 26,2026
+# Loading sv_std.std
+# Loading work.TestBench
+# Loading work.RISCV
+# Loading work.IF
+# Loading work.Adder
+# Loading work.MUX2
+# Loading work.PC
+# Loading work.InstMem
+# Loading work.FDreg_sv_unit
+# Loading work.FDreg
+# Loading work.ID
+# Loading work.RF
+# Loading work.IMM
+# Loading work.DEreg
+# Loading work.EX
+# Loading work.MUX3
+# Loading work.ALU
+# Loading work.EMreg
+# Loading work.M
+# Loading work.Mem
+# Loading work.MWreg
+# Loading work.WB
+# Loading work.Controller
+# Loading work.hazardDet
+run -all
+# =========================================
+#           Data Memory           
+# =========================================
+# Mem[0] =          -3
+# Mem[1] =          -1
+# Mem[2] =           1
+# Mem[3] =           3
+# Mem[4] =           5
+# Mem[5] =           7
+# Mem[6] =           9
+# Mem[7] =          11
+# Mem[8] =          13
+# Mem[9] =          15
+# =========================================
+# ** Note: $stop    : C:/Users/user/Desktop/Code/CA3/Codes/TestBench.sv(27)
+#    Time: 20540 ns  Iteration: 0  Instance: /TestBench
+# Break in Module TestBench at C:/Users/user/Desktop/Code/CA3/Codes/TestBench.sv line 27
+# End time: 18:48:38 on Jun 26,2026, Elapsed time: 0:16:27
+# Errors: 0, Warnings: 2

@@ -1,0 +1,610 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAdder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1782485379
+!i10b 1
+!s100 I2GUekW?@A6EVl2hRbIC@1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkY0eZ?[XLEkhl_Y1bKZjb0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/user/Desktop/Code/CA3/Codes
+w1779278192
+8C:/Users/user/Desktop/Code/CA3/Codes/Adder.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/Adder.sv
+!i122 0
+L0 1 3
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1782485379.000000
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/Adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/Adder.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@adder
+vALU
+R0
+R1
+!i10b 1
+!s100 I28EeTWc_BdzF<;8nmm3`1
+R2
+IER`2cTBXPZiMC_eP4DTIL2
+R3
+S1
+R4
+w1780212360
+8C:/Users/user/Desktop/Code/CA3/Codes/ALU.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/ALU.sv
+!i122 1
+Z9 L0 2 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/ALU.sv|
+!i113 1
+R7
+R8
+n@a@l@u
+vController
+R0
+Z10 !s110 1782485380
+!i10b 1
+!s100 >4]?CZ[Q9f3d]W9WI1[DE3
+R2
+I3464dD2=LMTVc6c[b;lY?1
+R3
+S1
+R4
+w1781983876
+8C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/Controller.sv
+!i122 2
+L0 2 83
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/Controller.sv|
+!i113 1
+R7
+R8
+n@controller
+vDEreg
+R0
+R10
+!i10b 1
+!s100 7SFP9QFg]PEC8^9d24NOX1
+R2
+IogBCaN@8[PY`S9gQO4>4P3
+R3
+S1
+R4
+w1781975899
+8C:/Users/user/Desktop/Code/CA3/Codes/DEreg.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/DEreg.sv
+!i122 3
+L0 2 20
+R5
+r1
+!s85 0
+31
+Z11 !s108 1782485380.000000
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/DEreg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/DEreg.sv|
+!i113 1
+R7
+R8
+n@d@ereg
+vEMreg
+R0
+R10
+!i10b 1
+!s100 ^IXZ0kHUh[GFYS9Z56Nd`0
+R2
+IiDO603eMmlQ_PAFE8YIQM3
+R3
+S1
+R4
+w1781974374
+8C:/Users/user/Desktop/Code/CA3/Codes/EMreg.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/EMreg.sv
+!i122 4
+L0 2 9
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/EMreg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/EMreg.sv|
+!i113 1
+R7
+R8
+n@e@mreg
+vEX
+R0
+R10
+!i10b 1
+!s100 _johdeC=R<<aSiZAmLNdd1
+R2
+IK3X`H`gMZQoURW=LK6:A31
+R3
+S1
+R4
+w1781951801
+8C:/Users/user/Desktop/Code/CA3/Codes/EX.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/EX.sv
+!i122 5
+L0 2 12
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/EX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/EX.sv|
+!i113 1
+R7
+R8
+n@e@x
+vFDreg
+R0
+DXx4 work 13 FDreg_sv_unit 0 22 C1<n_OknXFGb_7B4<XZ?_1
+R10
+R3
+r1
+!s85 0
+!i10b 1
+!s100 Ob5M8fK3eBUDFPmlA0;`d1
+I9nMUI@z_VS6J3g>a8?1<l1
+!s105 FDreg_sv_unit
+S1
+R4
+Z12 w1781953681
+Z13 8C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv
+Z14 FC:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv
+!i122 6
+L0 2 10
+R5
+31
+R11
+Z15 !s107 C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/FDreg.sv|
+!i113 1
+R7
+R8
+n@f@dreg
+XFDreg_sv_unit
+R0
+R10
+VC1<n_OknXFGb_7B4<XZ?_1
+r1
+!s85 0
+!i10b 1
+!s100 g`ihTOL0^SR`Dca>63?TY0
+IC1<n_OknXFGb_7B4<XZ?_1
+!i103 1
+S1
+R4
+R12
+R13
+R14
+!i122 6
+L0 1 0
+R5
+31
+R11
+R15
+R16
+!i113 1
+R7
+R8
+n@f@dreg_sv_unit
+vhazardDet
+R0
+R10
+!i10b 1
+!s100 XBTPiPW2SoG`KJIM?fWN63
+R2
+I6ciHfOK3QUE0FbEo1CKL:2
+R3
+S1
+R4
+w1782481633
+8C:/Users/user/Desktop/Code/CA3/Codes/HazardDetector.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/HazardDetector.sv
+!i122 7
+R9
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/HazardDetector.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/HazardDetector.sv|
+!i113 1
+R7
+R8
+nhazard@det
+vID
+R0
+R10
+!i10b 1
+!s100 MoUK[DTe@T:6Rg3M:[d4Y2
+R2
+ISME:3G^n@gbP9?zf_j;Xm3
+R3
+S1
+R4
+w1781970359
+8C:/Users/user/Desktop/Code/CA3/Codes/ID.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/ID.sv
+!i122 8
+L0 2 8
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/ID.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/ID.sv|
+!i113 1
+R7
+R8
+n@i@d
+vIF
+R0
+Z17 !s110 1782485381
+!i10b 1
+!s100 QMP@Fao_K2TnVGbB8n@Gf1
+R2
+I=?VSe;TN^0R@Z4e;I=jTT1
+R3
+S1
+R4
+w1781969867
+8C:/Users/user/Desktop/Code/CA3/Codes/IF.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/IF.sv
+!i122 9
+L0 2 14
+R5
+r1
+!s85 0
+31
+Z18 !s108 1782485381.000000
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/IF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/IF.sv|
+!i113 1
+R7
+R8
+n@i@f
+vIMM
+R0
+R17
+!i10b 1
+!s100 Y8DZlzjL`dQz<cIZY;Ibl3
+R2
+IOJ^j8A]X^Y8HnI>aQSlP=1
+R3
+S1
+R4
+w1780230050
+8C:/Users/user/Desktop/Code/CA3/Codes/IMM.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/IMM.sv
+!i122 10
+L0 2 17
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/IMM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/IMM.sv|
+!i113 1
+R7
+R8
+n@i@m@m
+vInstMem
+R0
+R17
+!i10b 1
+!s100 E^P0T5dECV6RoMe6<`LX=0
+R2
+I^IIBdd3;2g[GC8W76XNIT2
+R3
+S1
+R4
+w1781969541
+8C:/Users/user/Desktop/Code/CA3/Codes/InstMem.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/InstMem.sv
+!i122 11
+Z19 L0 1 8
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/InstMem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/InstMem.sv|
+!i113 1
+R7
+R8
+n@inst@mem
+vM
+R0
+R17
+!i10b 1
+!s100 0agAkDJ@[0zJ__3R6L=5R0
+R2
+IWZUeJLk3:ocG=ik[`YF2n3
+R3
+S1
+R4
+w1781949002
+8C:/Users/user/Desktop/Code/CA3/Codes/M.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/M.sv
+!i122 12
+Z20 L0 2 3
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/M.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/M.sv|
+!i113 1
+R7
+R8
+n@m
+vMem
+R0
+R17
+!i10b 1
+!s100 H:P6kXP;oU>V1IZ838QX;0
+R2
+I8F[WH<9]gDUae>D=B:9QQ2
+R3
+S1
+R4
+w1781948848
+8C:/Users/user/Desktop/Code/CA3/Codes/Mem.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/Mem.sv
+!i122 13
+L0 1 14
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/Mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/Mem.sv|
+!i113 1
+R7
+R8
+n@mem
+vMUX2
+R0
+R17
+!i10b 1
+!s100 mb?DKbZi=leCi1Bl<cL>N0
+R2
+IRFGdn]DViGa4YgAMn[Q[l1
+R3
+S1
+R4
+w1780230032
+8C:/Users/user/Desktop/Code/CA3/Codes/MUX2.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/MUX2.sv
+!i122 14
+R20
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/MUX2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/MUX2.sv|
+!i113 1
+R7
+R8
+n@m@u@x2
+vMUX3
+R0
+R17
+!i10b 1
+!s100 LnS:E;jj;b0kV`2jHMZ5]0
+R2
+IJkYE^Pbl1=?c7CabcnVWK1
+R3
+S1
+R4
+w1780230514
+8C:/Users/user/Desktop/Code/CA3/Codes/MUX3.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/MUX3.sv
+!i122 15
+R20
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/MUX3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/MUX3.sv|
+!i113 1
+R7
+R8
+n@m@u@x3
+vMWreg
+R0
+Z21 !s110 1782485382
+!i10b 1
+!s100 ]8h3lB]9hYoOZDDzgB2jY1
+R2
+Id@kl54fAh>98aZOFYj2IO0
+R3
+S1
+R4
+w1781974882
+8C:/Users/user/Desktop/Code/CA3/Codes/MWreg.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/MWreg.sv
+!i122 16
+L0 2 7
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/MWreg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/MWreg.sv|
+!i113 1
+R7
+R8
+n@m@wreg
+vPC
+R0
+R21
+!i10b 1
+!s100 =@oHSdk<EP4[dKojRMQE82
+R2
+IAoZ1CI<5Ie@XSkQ3UH34=2
+R3
+S1
+R4
+w1781969703
+8C:/Users/user/Desktop/Code/CA3/Codes/PC.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/PC.sv
+!i122 17
+R19
+R5
+r1
+!s85 0
+31
+Z22 !s108 1782485382.000000
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/PC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/PC.sv|
+!i113 1
+R7
+R8
+n@p@c
+vRF
+R0
+R21
+!i10b 1
+!s100 5B1fE4QRXNoe0iFf3b=>e2
+R2
+Iik5W28FNH]e==_CKf3kJ`1
+R3
+S1
+R4
+w1782464225
+8C:/Users/user/Desktop/Code/CA3/Codes/RF.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/RF.sv
+!i122 18
+L0 1 17
+R5
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/RF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/RF.sv|
+!i113 1
+R7
+R8
+n@r@f
+vRISCV
+R0
+R21
+!i10b 1
+!s100 <k]C6g=ebk@C@>8Q@4c[d1
+R2
+IcRV_;3TOOJ=FLIhml3@TA3
+R3
+S1
+R4
+w1781983871
+8C:/Users/user/Desktop/Code/CA3/Codes/RISCV.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/RISCV.sv
+!i122 19
+L0 2 46
+R5
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/RISCV.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/RISCV.sv|
+!i113 1
+R7
+R8
+n@r@i@s@c@v
+vTestBench
+R0
+!s110 1782486116
+!i10b 1
+!s100 T=W]]hAHDg[ORnAc0SJU40
+R2
+Ik5OD;l[h41z73T5MjDQMQ0
+R3
+S1
+R4
+w1782486107
+8C:\Users\user\Desktop\Code\CA3\Codes\TestBench.sv
+FC:\Users\user\Desktop\Code\CA3\Codes\TestBench.sv
+!i122 22
+L0 2 29
+R5
+r1
+!s85 0
+31
+!s108 1782486116.000000
+!s107 C:\Users\user\Desktop\Code\CA3\Codes\TestBench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\user\Desktop\Code\CA3\Codes\TestBench.sv|
+!i113 1
+R7
+R8
+n@test@bench
+vWB
+R0
+R21
+!i10b 1
+!s100 F72;M1`942SX3QanQZl1N2
+R2
+I8UU6id???B_J4bA3BaTVF2
+R3
+S1
+R4
+w1781859955
+8C:/Users/user/Desktop/Code/CA3/Codes/WB.sv
+FC:/Users/user/Desktop/Code/CA3/Codes/WB.sv
+!i122 21
+R20
+R5
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/user/Desktop/Code/CA3/Codes/WB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/Code/CA3/Codes/WB.sv|
+!i113 1
+R7
+R8
+n@w@b
